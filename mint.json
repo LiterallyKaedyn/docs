@@ -31,17 +31,13 @@
     {
       "group": "Introduction",
       "pages": [
-        "starting-off",
-        "web-design/webdevelopment",
-        "web-design/wordpressdevelopment",
-        "hosting/nexuremanagedhosting",
-        "hosting/nameservers"
+        "starting-off"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/nexuresolutions",
-    "github": "https://github.com/nexure-solutions-llc",
-    "linkedin": "https://linkedin.com/company/nexuresolutions"
+    "x": "https://x.com/JesterSoftware",
+    "github": "https://github.com/Jester-Software-Systems",
+    "discord": "https://discord.gg/W79FcKsPrQ"
   }
 }
