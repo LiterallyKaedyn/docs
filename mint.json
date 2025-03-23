@@ -33,6 +33,12 @@
       "pages": [
         "starting-off"
       ]
+    },
+    {
+      "group": "Roblox > Discord Management",
+      "pages": [
+        "api/getting-started"
+      ]
     }
   ],
   "footerSocials": {
