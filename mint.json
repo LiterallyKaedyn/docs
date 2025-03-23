@@ -29,9 +29,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Introduction",
       "pages": [
-        "introduction",
+        "starting-off",
         "web-design/webdevelopment",
         "web-design/wordpressdevelopment",
         "hosting/nexuremanagedhosting",
