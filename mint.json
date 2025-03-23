@@ -39,10 +39,10 @@
       "pages": [
         "roblox-discord/api/getting-started"
       ],
-        "group": "API",
-        "pages": [
-          "roblox-discord/api/getting-started"
-        ]
+      "group": "Roblox > Discord Management > API",
+      "pages": [
+        "roblox-discord/api/getting-started"
+      ]
     }
   ],
   "footerSocials": {
