@@ -38,7 +38,11 @@
       "group": "Roblox > Discord Management",
       "pages": [
         "roblox-discord/api/getting-started"
-      ]
+      ],
+        "group": "API",
+        "pages": [
+          "roblox-discord/api/getting-started"
+        ]
     }
   ],
   "footerSocials": {
