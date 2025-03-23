@@ -26,11 +26,6 @@
     "url": "https://jestersoftware.org"
   },
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://docs.nexuresolutions.com"
-    }
   ],
   "navigation": [
     {
