@@ -1,0 +1,52 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Jester Software Systems Documentation",
+  "logo": {
+    "dark": "https://jestersoftware.org/assets/images/logos/JesterSS_Logo_3D.png",
+    "light": "https://jestersoftware.org/assets/images/logos/JesterSS_Logo_3D.png"
+  },
+  "favicon": "https://jestersoftware.org/assets/images/logos/JesterSS_Logo_3D.png",
+  "colors": {
+    "primary": "#f21212",
+    "light": "#ffffff",
+    "dark": "#000000",
+    "anchors": {
+      "from": "#8f0000",
+      "to": "#2d0000"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Contact Us",
+      "url": "https://discord.gg/W79FcKsPrQ"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Home",
+    "url": "https://jestersoftware.org"
+  },
+  "anchors": [
+    {
+      "name": "Documentation",
+      "icon": "book-open-cover",
+      "url": "https://docs.nexuresolutions.com"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "introduction",
+        "web-design/webdevelopment",
+        "web-design/wordpressdevelopment",
+        "hosting/nexuremanagedhosting",
+        "hosting/nameservers"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/nexuresolutions",
+    "github": "https://github.com/nexure-solutions-llc",
+    "linkedin": "https://linkedin.com/company/nexuresolutions"
+  }
+}
