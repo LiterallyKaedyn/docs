@@ -8,8 +8,8 @@
   "favicon": "https://jestersoftware.org/assets/images/logos/JesterSS_Logo_3D.png",
   "colors": {
     "primary": "#f21212",
-    "light": "#ffffff",
-    "dark": "#000000",
+    "light": "#f21212",
+    "dark": "#f21212",
     "anchors": {
       "from": "#8f0000",
       "to": "#2d0000"
