@@ -33,10 +33,14 @@
       "pages": [
         "starting-off"
       ]
+    },
+    {
       "group": "Roblox > Discord Management > Bot Hosting",
       "pages": [
         "roblox-discord/bots/getting-started"
-      ],
+      ]
+    },
+    {
       "group": "Roblox > Discord Management > API",
       "pages": [
         "roblox-discord/api/getting-started"
