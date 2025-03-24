@@ -35,9 +35,9 @@
       ]
     },
     {
-      "group": "Roblox > Discord Management",
+      "group": "Roblox > Discord Management > Bot Hosting",
       "pages": [
-        "roblox-discord/api/getting-started"
+        "roblox-discord/bots/getting-started"
       ],
       "group": "Roblox > Discord Management > API",
       "pages": [
